@@ -195,3 +195,8 @@ PRs welcome — please see `CONTRIBUTING.md` if you adopt the conventions. Keep 
 Released under the **MIT License** — see `LICENSE`.
 
 ---
+👤 Author
+
+Samia Shabbir (Synterion Solutions)
+Portfolio: https://synterion-solutions.vercel.app/
+Email: <info.synterionsolutions@gmail.com>
