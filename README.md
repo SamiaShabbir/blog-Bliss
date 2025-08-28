@@ -19,8 +19,6 @@
 * **Secure by Default**: helmet, rate‑limit, sanitized inputs, CORS.
 * **Production‑ready**: environment variables, structured logging, CI‑ready.
 
-> Frontend‑agnostic: hook it up to React/Next.js, Vue/Nuxt, Svelte/SvelteKit, or static sites.
-
 ---
 
 ## 🧰 Tech Stack
@@ -32,7 +30,6 @@
 * **Auth**: JSON Web Tokens (JWT)
 * **Docs**: Swagger/OpenAPI (optional)
 
-> If you are using a specific DB/ORM (e.g., MongoDB + Mongoose or Postgres + Prisma), update the sections below accordingly.
 
 ---
 
@@ -113,10 +110,6 @@ blog-Bliss/
 > Adjust to match your current layout; the README remains valid either way.
 
 ---
-
-## 🔌 API Overview
-
-*(examples — align with your actual handlers)*
 
 ### Auth
 
