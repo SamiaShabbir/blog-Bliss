@@ -7,6 +7,7 @@
 
 > **Blog Bliss** is a developer‑friendly blog backend focused on clarity and speed: authentication, posts, comments, categories/tags, pagination, and search — ready to pair with any frontend.
 
+[🔗 Frontend Repository: Blog Bliss Frontend (React)](https://github.com/Sadie2260/blog-bliss)
 ---
 
 ## ✨ Features
